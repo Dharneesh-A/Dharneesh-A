@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dharneesh A
+- 💞️ Fresher - java,Selenium,TestNG,Maven
+- 👀 Currently loooking for a job in Technical roles
+- 🌱 B.Com(Information Technology) 2022
+- 📫 How to reach me dharneesharumugam@gmail.com
