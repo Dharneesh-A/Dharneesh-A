@@ -2,4 +2,4 @@
 - Fresher - java,Selenium,TestNG,Maven
 - Currently loooking for a job in Technical roles
 - B.Com(Information Technology) 2022
-- How to reach me dharneesharumugam@gmail.com
+- Reach me dharneesharumugam@gmail.com
